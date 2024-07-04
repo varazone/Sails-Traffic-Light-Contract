@@ -1,0 +1,23 @@
+{
+  "name": "sails-oracle-js",
+  "version": "1.0.0",
+  "description": "node server as oracle to use sails on Vara",
+  "main": "index.js",
+  "author": "DavidHM",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@gear-js/api": "^0.38.1",
+    "@polkadot/api": "^11.3.1",
+    "@polkadot/extension-dapp": "^0.47.6",
+    "@polkadot/types": "^11.3.1",
+    "@polkadot/util": "^12.6.2",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.7",
+    "commander": "^12.1.0",
+    "express": "^4.19.2",
+    "sails-js": "^0.1.4"
+  }
+}
